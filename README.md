@@ -70,3 +70,5 @@
 `docker compose logs -f [service name]` — посмотреть логи сервиса
 `docker compose ps` — вывести список контейнеров
 
+
+
